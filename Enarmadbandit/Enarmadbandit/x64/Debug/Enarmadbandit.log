@@ -1,0 +1,4 @@
+﻿  Enarmadbandit.cpp
+C:\Users\calle\source\repos\Enarmadbandit\Enarmadbandit\Enarmadbandit.cpp(27,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\calle\source\repos\Enarmadbandit\Enarmadbandit\Enarmadbandit.cpp(138,3): warning C4551: function call missing argument list
+  Enarmadbandit.vcxproj -> C:\Users\calle\source\repos\Enarmadbandit\x64\Debug\Enarmadbandit.exe
